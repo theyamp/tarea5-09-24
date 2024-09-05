@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: aqua;
+}
+.sombrero{
+    background-color: blue;
+    width: 80px; height: 50px;
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+.sombrero2{
+    background-color: blue;
+    width: 200px; height: 20px;
+    border-radius: 50px;
+    position: absolute;
+    top: 90px;
+    left: 240px;
+}
+.cabeza{
+    background-color: white;
+    width: 250px; height: 200px;
+    border-radius: 300px;
+    border: 5px solid black;
+    position: absolute;
+    top: 110px;
+    left: 215px;
+}
+.ojo1{
+    background-color: white;
+    width: 50px; height: 50px;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+.ojo2{
+    background-color: white;
+    width: 50px; height: 50px;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 30px;
+    left: 140px;
+}
+.nariz{
+    background-color: orange;
+    width: 50px; height: 25px;
+    position: absolute;
+    top: 95px;
+    left: 100px;
+    transform: rotate(45deg);
+}
+.risa{
+    background-color: white;
+    width: 130px; height: 50px;
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    border: 5px solid black;    
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+.cuerpo{
+    background-color: white;
+    width: 250px; height: 300px;
+    border-radius: 300px;
+    border: 5px solid black;
+    position: absolute;
+    top: 315px;
+    left: 220px;
+
+}
+.boton1{
+    background-color: white;
+    width: 40px; height: 40px;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.boton2{
+    background-color: white;
+    width: 40px; height: 40px;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.boton3{
+    background-color: white;
+    width: 40px; height: 40px;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+.mano1{
+    background-color: orange;
+    width: 200px; height: 30px;
+    border-radius: 100px;
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    transform: rotate(30deg);
+}
+.mano2{
+    background-color: orange;
+    width: 200px; height: 30px;
+    border-radius: 100px;
+    position: absolute;
+    top: 380px;
+    left: 440px;
+    transform: rotate(150deg);
+}
+.cuerpo2{
+    background-color: white;
+    width: 300px; height: 200px;
+    border-radius: 400px;
+    border: 5px solid black;
+    position: absolute;
+    top: 620px;
+    left: 200px;
+    text-align: center;
+}
+
+
